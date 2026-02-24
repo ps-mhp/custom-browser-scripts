@@ -7,5 +7,5 @@
   }
 
   loadScript('https://cdn.jsdelivr.net/gh/ps-mhp/custom-browser-scripts@main/dist/sap/keepalive.js');
-  loadScript('https://cdn.jsdelivr.net/gh/ps-mhp/custom-browser-scripts@main/dist/sap/stundenrechner.js', { SF_CONFIG: { assignmentId: '00707080' } });
+  loadScript('https://cdn.jsdelivr.net/gh/ps-mhp/custom-browser-scripts@main/dist/sap/stundenrechner.js');
 })();
